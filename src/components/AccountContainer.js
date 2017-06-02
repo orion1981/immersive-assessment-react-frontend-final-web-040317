@@ -42,7 +42,7 @@ class AccountContainer extends Component {
     }
   }
 
-  handleChange(event) {
+  handleChange() {
     //... your code here
   }
 
