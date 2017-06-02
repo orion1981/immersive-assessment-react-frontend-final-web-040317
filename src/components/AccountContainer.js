@@ -53,7 +53,6 @@ class AccountContainer extends Component {
       <div className="ui grid container">
 
         <CategorySelector
-          transactions={ displayedTransactions }
           activeCategory={ this.state.activeCategory }
           handleChange={ "...your code here" }
         />
